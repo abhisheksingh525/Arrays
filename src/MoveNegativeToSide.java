@@ -8,6 +8,7 @@
 import java.util.Scanner;
 
 public class MoveNegativeToSide {
+    
     public static void main(String[] args) {
 
         System.out.print("Enter the size of an array : ");
